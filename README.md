@@ -1,2 +1,5 @@
 # IP-LOGS
 Discord bot with iplogs
+
+I TAKE NO BLAME IN ANY USE
+I MADE THIS FOR FUN
